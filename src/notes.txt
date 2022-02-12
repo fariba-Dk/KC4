@@ -1,0 +1,3 @@
+for inputing images
+1. From src
+  import (namedImage) from '/images/collage.jpeg"
